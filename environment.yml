@@ -1,4 +1,4 @@
-name: 3d
+name: base
 channels:
   - conda-forge
   - bioconda
